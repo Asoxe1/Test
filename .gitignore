@@ -1,0 +1,29 @@
+
+---
+
+## 🛑 .gitignore
+
+```gitignore
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MongoDB dump
+dump/
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
