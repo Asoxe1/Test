@@ -1,0 +1,10 @@
+[
+  { "flight": "AF123", "delay": 15 }, { "flight": "LH456", "delay": 0 },
+  { "flight": "BA789", "delay": 45 }, { "flight": "DL321", "delay": 30 },
+  { "flight": "UA654", "delay": 10 }, { "flight": "FR987", "delay": 60 },
+  { "flight": "EK111", "delay": 5 },  { "flight": "QR222", "delay": 20 },
+  { "flight": "AF100", "delay": 0 },  { "flight": "AF101", "delay": 5 },
+  { "flight": "BA200", "delay": 90 }, { "flight": "LH200", "delay": 15 },
+  { "flight": "DL100", "delay": 0 },  { "flight": "UA100", "delay": 120 },
+  { "flight": "EZ100", "delay": 10 }, { "flight": "RY100", "delay": 25 }
+]

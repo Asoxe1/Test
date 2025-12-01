@@ -1,0 +1,10 @@
+{
+  "totalFlights": 1452,
+  "totalTrend": 12,
+  "avgDelay": 24,
+  "delayTrend": -5,
+  "passengers": 18540,
+  "paxTrend": 8,
+  "status": "Normal",
+  "lastUpdate": "10:45"
+}

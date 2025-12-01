@@ -1,0 +1,6 @@
+[
+  { "type": "Boeing 737", "count": 35 },
+  { "type": "Airbus A320", "count": 45 },
+  { "type": "Boeing 777", "count": 10 },
+  { "type": "Autres", "count": 10 }
+]
